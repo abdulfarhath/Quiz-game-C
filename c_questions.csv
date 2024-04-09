@@ -1,0 +1,10 @@
+Which of the following data types can store a decimal value in C language?, int, float, char, double,2
+What does the operator '&' do in C language?, It performs bitwise AND, It returns the address of a variable, It performs logical AND, None of the above,2
+"What is the output of the following code? int x = 10; y = 20; printf(""%d"" x+y);",1020,30, Error, None of the above,2
+"What is the output of the following code? int a = 10; if (a > 5) { printf(Hello""); } else { printf(""W", Hello, World, Hello World, None of the above,1
+What is the keyword used to define a constant in C language?, var, const, int, define,2
+"What is the output of the following code? int i; for (i = 0; i < 5; i++) { printf(%d "" i); }""", 0 1 2 3 4, 1 2 3 4 5, 0 1 2 3 4 5, None of the above,1
+What does the 'strcmp' function in C language do?, Compares two strings, Converts a string to uppercase, Converts a string to lowercase, None of the above,1
+Which of the following is NOT a logical operator in C language?, &&, ||, !, ^,4
+Which header file should be included to work with input/output operations in C language?, stdio.h, math.h, string.h, time.h,1
+What is the size of the 'int' data type in C language?, 2 bytes, 4 bytes, 8 bytes, It varies depending on the system,2
